@@ -1,0 +1,8 @@
+int scoreOfParentheses(string s) {
+        stack<char>st;
+        int n=s.size();
+        st.push(s[0]);
+        
+        
+        
+    }
